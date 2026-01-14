@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# Contains API keys
+W3 Assignment - Google API Intro.ipynb
+google_functions.py
